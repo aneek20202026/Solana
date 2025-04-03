@@ -11,7 +11,7 @@ A React.js application that allows users to interact with the Solana blockchain,
 
 ## Live Demo
 You can try out the live version of this app here:
-> **[Solana App(https://solana-bzg.pages.dev/)]**
+> **[Solana App](https://solana-bzg.pages.dev/)**
 
 ## Installation
 
